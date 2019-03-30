@@ -9,6 +9,5 @@ setup(name='rh_http_package',
       license='MIT',
       packages=['rh_http_package'],
       install_requires=['requests'],
-      version='0.1',
       zip_safe=False
 )
