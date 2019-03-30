@@ -7,5 +7,8 @@ setup(name='rh_http_package',
       author='Ray Huynh',
       author_email='rando@somerandomemail.com',
       license='MIT',
-      packages=['requests'],
-      zip_safe=False)
+      packages=['rh_http_package'],
+      install_requires=['requests'],
+      version='0.1',
+      zip_safe=False
+)
