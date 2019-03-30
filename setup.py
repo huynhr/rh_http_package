@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='funniest',
+setup(name='rh chucky',
       version='0.1',
-      description='The funniest joke in the world',
-      url='http://github.com/storborg/funniest',
-      author='Flying Circus',
-      author_email='flyingcircus@example.com',
+      description='Chuck norris jokes',
+      url='https://github.com/huynhr/rh_http_package',
+      author='Ray Huynh',
+      author_email='rando@somerandomemail.com',
       license='MIT',
-      packages=['funniest'],
+      packages=['requests'],
       zip_safe=False)
