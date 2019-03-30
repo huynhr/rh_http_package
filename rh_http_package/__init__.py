@@ -1,1 +1,1 @@
-from rh_chucky import chuck_norris_joke
+import rh_chucky
