@@ -8,6 +8,6 @@ setup(name='rh_http_package',
       author_email='rando@somerandomemail.com',
       license='MIT',
       packages=['rh_http_package'],
-      install_requires=['requests'],
+      install_requires=['requests', 'black'],
       zip_safe=False
 )

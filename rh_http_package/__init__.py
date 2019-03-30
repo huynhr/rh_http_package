@@ -1,0 +1,1 @@
+from rh_chucky import chuck_norris_joke
